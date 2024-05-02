@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\buildMultiTargeting\Api_Vacinacao_Cachorro.props" />
+</Project>
